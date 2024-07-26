@@ -1,0 +1,6 @@
+1#Bhmu#29000#20
+3#Kabel hdmi#105000#99
+4#Flashdisk#88000#100
+5#Keyboard#159500#100
+6#Procesor pc#2380000#100
+7#Monitor#120000#120

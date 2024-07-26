@@ -1,0 +1,5 @@
+1#Monitor pc#1#689000
+3#Kabel hdmi#1#105000
+1#Monitor pc#1#689000
+2#Mouse komputer#1#121000
+1#Bhmu#1#29000
